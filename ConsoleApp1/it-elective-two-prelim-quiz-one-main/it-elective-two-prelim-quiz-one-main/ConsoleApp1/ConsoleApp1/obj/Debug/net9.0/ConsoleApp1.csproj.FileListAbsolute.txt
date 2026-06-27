@@ -1,0 +1,4 @@
+C:\Users\STUDENT\Downloads\it-elective-two-prelim-quiz-one-main\it-elective-two-prelim-quiz-one-main\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Downloads\it-elective-two-prelim-quiz-one-main\it-elective-two-prelim-quiz-one-main\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Downloads\it-elective-two-prelim-quiz-one-main\it-elective-two-prelim-quiz-one-main\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\STUDENT\Downloads\it-elective-two-prelim-quiz-one-main\it-elective-two-prelim-quiz-one-main\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
